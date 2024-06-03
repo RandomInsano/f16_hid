@@ -1,0 +1,11 @@
+[Unit]
+Description=Blinkenlights for Framework 16
+
+[Service]
+Restart=Always
+ExecStart=/usr/local/bin/computer_stats
+
+[Install]
+WantedBy=multi-user.target
+
+
