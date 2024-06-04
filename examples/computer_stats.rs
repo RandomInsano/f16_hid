@@ -2,7 +2,7 @@ use std::time::Duration;
 use std::{io::ErrorKind, time::Instant};
 use std::io::Error;
 use sysinfo::System;
-use framework16_leds::{
+use f16_hid::{
     Bitmap8, Command, LedMatrix, DISPLAY_HEIGHT, DISPLAY_WIDTH
 };
 

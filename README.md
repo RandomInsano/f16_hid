@@ -2,7 +2,8 @@ Framework16 Library
 ==============================================================================
 
 As a fun project, I've decided to implement a library for the various input
-devices found on the Framework16.
+devices found on the Framework16. I'm sure others exist, I decided to play on
+my own. Feel free to submit pull requests!
 
 ### Examples:
 
